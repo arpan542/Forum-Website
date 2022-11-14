@@ -1,5 +1,6 @@
 # Forum-Website
-Frontend: React,React-Router,Material-UI Backend: Node js,Express Js,MongoDB,JWT 
+Frontend: React,React-Router,Material-UI 
+Backend: Node js,Express Js,MongoDB,JWT 
 Features:
 •	Login/Signup User Account
 •	Login using Username
